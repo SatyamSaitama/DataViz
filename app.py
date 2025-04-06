@@ -15,7 +15,7 @@ def load_and_preprocess_data():
     """
     Load and preprocess the Amazon sales data
     """
-    amazon_sales_data = pd.read_csv('content/Amazon Sale Report.csv')
+    amazon_sales_data = pd.read_csv('Amazon Sale Report.csv')
 
 
 
